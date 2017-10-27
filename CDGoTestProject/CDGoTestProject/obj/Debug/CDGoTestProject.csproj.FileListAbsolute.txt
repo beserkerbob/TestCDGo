@@ -1,0 +1,7 @@
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\bin\Debug\CDGoTestProject.exe.config
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\bin\Debug\CDGoTestProject.exe
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\bin\Debug\CDGoTestProject.pdb
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\obj\Debug\CDGoTestProject.csprojResolveAssemblyReference.cache
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\obj\Debug\CDGoTestProject.csproj.CoreCompileInputs.cache
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\obj\Debug\CDGoTestProject.exe
+c:\users\vanderstaak\documents\visual studio 2017\Projects\CDGoTestProject\CDGoTestProject\obj\Debug\CDGoTestProject.pdb
